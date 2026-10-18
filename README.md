@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hey, I'm Sanskar!<br><br>### 💻 Computer Engineering Student | Aspiring Software Engineer<br><br>I'm a Computer Engineering student passionate about understanding how software works, solving problems through code, and building practical applications.<br><br>🚀 **Currently focused on:**<br>- 🧠 Strengthening Data Structures & Algorithms (DSA)<br>- 💻 Improving programming and software development fundamentals<br>- 🛠️ Building real-world projects and learning through implementation<br>- 🌱 Exploring open-source development and modern engineering tools<br><br>### 🎯 My Goal<br>To become a skilled software engineer by consistently building projects, improving my problem-solving abilities, and contributing to meaningful technology.<br><br>> *Learn deeply. Build consistently. Improve continuously.*
+ 💫 About Me:
+ 👋 Hey, I'm Sanskar!<br><br> 💻 Computer Engineering Student <br><br>I'm a Computer Engineering student passionate about understanding how software works, solving problems through code, and building practical applications.<br><br>🚀 **Currently focused on:**<br>- 🧠 Strengthening Data Structures & Algorithms (DSA)<br>- 💻 Improving programming and software development fundamentals<br>- 🛠️ Building real-world projects and learning through implementation<br>- 🌱 Exploring open-source development and modern engineering tools<br><br>### 🎯 My Goal<br>To become a skilled engineer by consistently building projects, improving my problem-solving abilities, and contributing to meaningful technology.<br><br>> *Learn deeply. Build consistently. Improve continuously.*
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=SanskarGavali&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
