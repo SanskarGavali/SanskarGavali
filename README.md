@@ -1,4 +1,4 @@
- 💫 About Me:
+ 💫 About Me: 
  👋 Hey, I'm Sanskar!<br><br> 💻 Computer Engineering Student <br><br>I'm a Computer Engineering student passionate about understanding how anything works with just few line of codes, solving problems through code, and building practical applications.<br><br>🚀 **Currently focused on:**<br>- 🧠 Strengthening Data Structures & Algorithms (DSA)<br>-🛠️ Building real-world projects and learning through implementation<br>- 🌱 Exploring open-source development and modern engineering tools<br><br> 🎯 My Goal<br>To become a skilled engineer by consistently building projects, improving my problem-solving abilities, and contributing to meaningful technology.<br><br>> *Learn deeply. Build consistently. Improve continuously.*
 
 
